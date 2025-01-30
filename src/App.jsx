@@ -646,7 +646,7 @@ function App() {
                         value={opt}
                         checked={userAnswers[index] === opt}
                         onChange={() => handleOptionChange(index, opt)}
-                        className="mt-1 xs:mt-0"
+                        className="mt-1 xs:-mt-1"
                       />
                       <span className="text-sm">{opt}</span>
                     </label>
