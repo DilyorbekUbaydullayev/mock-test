@@ -648,7 +648,7 @@ function App() {
                         onChange={() => handleOptionChange(index, opt)}
                         className="mt-1 xs:-mt-1"
                       />
-                      <span className="text-sm">{opt}</span>
+                      <span className="text-sm xs:mt-1">{opt}</span>
                     </label>
                   ))}
                 </div>
