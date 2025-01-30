@@ -646,7 +646,7 @@ function App() {
                         value={opt}
                         checked={userAnswers[index] === opt}
                         onChange={() => handleOptionChange(index, opt)}
-                        className="mt-1 xs:-mt-1"
+                        className="mt-1"
                       />
                       <span className="text-sm xs:mt-1">{opt}</span>
                     </label>
@@ -709,7 +709,12 @@ function App() {
           </div>
         </div>
       )}
+      <footer className="fixed bottom-0 left-0 w-full bg-gray-900 text-white text-center py-3">
+  <p>© 2025. Muallif: Ubaydullev Dilyorbek</p>
+</footer>
+
     </div>
+    
   );
 }
 
