@@ -667,7 +667,7 @@ function App() {
       )}
 
       {testFinished && (
-        <div className="bg-white rounded-lg shadow-lg p-6 mt-4">
+        <div className="bg-white rounded-lg shadow-lg p-6 mb-4 ">
           <h2 className="text-xl font-semibold mb-4">
             Test natijalari
           </h2>
