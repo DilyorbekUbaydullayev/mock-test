@@ -621,7 +621,7 @@ function App() {
       </div>
 
       {testStarted && !testFinished && (
-        <div className="bg-white rounded-lg shadow-lg p-6">
+        <div className="bg-white rounded-lg shadow-lg p-6 mb-4">
           <h2 className="text-xl font-semibold mb-4">
             Testni yeching
           </h2>
@@ -710,7 +710,7 @@ function App() {
         </div>
       )}
       <footer className="fixed bottom-0 left-0 w-full bg-gray-900 text-white text-center py-3">
-  <p>© 2025. Muallif: Ubaydullev Dilyorbek</p>
+  <p>© 2025. Muallif: Ubaydullayev Dilyorbek</p>
 </footer>
 
     </div>
