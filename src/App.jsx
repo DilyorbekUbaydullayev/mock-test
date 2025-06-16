@@ -255,12 +255,12 @@ function App() {
 
               </div>
               <div>
-                <a href="/Falsafa YN.pdf">
+                <a href="/Savollar ingliz tili yakuniy.pdf">
                 <label 
                   
                   className="block w-full px-4 py-2 text-center border-2 border-blue-500 rounded-lg hover:bg-blue-50 cursor-pointer"
                 >
-                  Falsafa javoblar
+                  Inglis tili javoblar
                 </label>
                 </a>
               </div>
@@ -369,9 +369,7 @@ function App() {
           </div>
         </div>
       )}
-      <footer className="fixed bottom-0 left-0 w-full bg-gray-900 text-white text-center py-3">
-  <p>© 2025. Muallif: Ubaydullayev Dilyorbek</p>
-</footer>
+      
 
     </div>
     
