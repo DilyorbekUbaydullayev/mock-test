@@ -255,7 +255,7 @@ function App() {
 
               </div>
               <div>
-                <a href="/Hisob2 test.pdf">
+                <a href="/Hisob2.pdf">
                 <label 
                   
                   className="block w-full px-4 py-2 text-center border-2 border-blue-500 rounded-lg hover:bg-blue-50 cursor-pointer"
